@@ -2,7 +2,7 @@ using System;
 using Microsoft.Bot.Builder.FormFlow;
 
 public enum CarOptions { Convertible = 1, SUV, EV };
-public enum ColorOptions { Red = 1, White, Blue, Pink };
+-[public enum ColorOptions { Red = 1, White, Blue, Pink, Black };
 
 // For more information about this template visit http://aka.ms/azurebots-csharp-form
 [Serializable]
